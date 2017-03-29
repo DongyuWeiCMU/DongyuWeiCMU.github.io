@@ -10,7 +10,7 @@ description: I like Koala.
 external-image: false
 picture: assets/images/me.jpg
 
-url: http://dongyuwei.github.io
+url: http://dongyuweicmu.github.io
 
 permalink: /:title/
 
@@ -25,7 +25,7 @@ analytics-google: 'UA-65808904-1'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: dongyuwei
+disqus: dongyuweicmu
 
 # if you don't have any of social below, comment the line
 resume: true
@@ -37,15 +37,15 @@ instagram: thelifeofewer
 linkedin: edwardrzhu
 # youtube: myyoutube
 # spotify: myspotify
-github: zhued
+github: dongyuweicmu
 # medium: medium
 # vimeo: myvimeo
-email: edward.r.zhu@gmail.com
+email: dongyu.wei@sv.cmu.edu
 
 authors:
-    edwardzhu:
-        name: Edward Zhu
-        bio: I like cool socks.
+    dongyuweicmu:
+        name: Dongyu Wei
+        bio: Loving sleeping
         external-image: false
         picture: assets/images/me.jpg
         twitter: thelifeofewer
