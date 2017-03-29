@@ -8,7 +8,7 @@ description: I like Koala.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/me.jpg
+picture: assets/images/me.png
 
 url: http://dongyuweicmu.github.io
 
@@ -47,7 +47,7 @@ authors:
         name: Dongyu Wei
         bio: Loving sleeping
         external-image: false
-        picture: assets/images/me.jpg
+        picture: assets/images/me.png
         twitter: thelifeofewer
 
 # do you want a larger site? change the option below
