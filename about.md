@@ -25,10 +25,10 @@ I enjoy hacking out <strong>full-stack web apps</strong> and <strong>useful soft
 I enjoy building and upgrading computers, <strong>volunteering</strong> (hospital, library), <strong>PC gaming</strong>, and staying updated with the latest technologies.
 </p>
 
-<p class="about-text">
+<!-- <p class="about-text">
 <span class="fa fa-file-text-o about-icon"></span>
 The <strong><a href="{{ site.url }}/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my <a href="https://drive.google.com/file/d/0B41lqVWEW7dSTmRtQWVTampxbDQ/view?usp=sharing" target="blank">resume</a>.
-</p>
+</p> -->
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
