@@ -7,17 +7,17 @@ layout: page
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently working as a <strong>software engineer</strong> focusing on <strong>virtualization</strong> of cloud spaces (<strong>containers, VMs, and ContainerOS</strong>) at Hewlett-Packard Enterprise. I was a <strong>software engineering intern</strong> (Hewlett-Packard Enterprise, HP) and also worked as a <strong>web/database developer</strong> at <a href="https://petrode.com/" target="blank">PetroDE</a>.
+Worked as a <strong>software engineer</strong> focusing on <strong>backend</strong> of web, Android and IOS applications (<strong>map APP, E-market APP, and Social APP</strong>) at HiKe Enterprise. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Graduated in <strong>May 2016</strong> from the <strong>University of Colorado, Boulder</strong> majoring in <strong>Computer Science</strong>!
+Graduated in <strong>July 2014</strong> from the <strong>Beijing University of Posts and Telecommunications</strong> majoring in <strong>Computer Science</strong>!
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy hacking out <strong>full-stack web apps</strong> and <strong>useful software tools</strong> &mdash; check out <a href="{{ site.url }}/projects">my projects</a>.
+I enjoy hacking out <strong>full-stack web apps</strong> and <strong>useful software tools and using Machine Learning</strong> &mdash; check out <a href="{{ site.url }}/projects">my projects</a>.
 </p>
 
 <p class="about-text">
@@ -32,5 +32,5 @@ The <strong><a href="{{ site.url }}/projects">projects</a></strong> page is a ni
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Born in Oregon, then moved to Mississippi for a few years, but mainly grew up in <i>Fort Collins, Colorado</i>. I'm fluent in Mandarin Chinese, as well as Shanghainese (dialect of Chinese).
+Born in China, mainly grew up in <i>Guangxi Province</i>. I'm fluent in English, as well as Guiliu Hua (dialect of Chinese).
 </p>
