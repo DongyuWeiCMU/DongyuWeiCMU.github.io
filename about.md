@@ -27,7 +27,7 @@ I enjoy building and upgrading computers, <strong>volunteering</strong> (hospita
 
 <p class="about-text">
 <span class="fa fa-file-text-o about-icon"></span>
-The <strong><a href="{{ site.url }}/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my <a href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" target="blank">resume</a>.
+The <strong><a href="{{ site.url }}/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my <a href="https://drive.google.com/file/d/0B41lqVWEW7dSTmRtQWVTampxbDQ/view?usp=sharing" target="blank">resume</a>.
 </p>
 
 <p class="about-text">
