@@ -1,4 +1,4 @@
-# [dongyuweicmu.github.io](https://dongyuweicmu.github.io)
+# [dongyuweicmu.github.io](http://dongyuweicmu.github.io)
 
 My personal website where I blog about anything on my mind and also a personal portfolio.
 
